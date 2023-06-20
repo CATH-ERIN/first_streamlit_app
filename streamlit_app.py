@@ -36,5 +36,3 @@ import snowflake.connector
 
 
 
-
-
